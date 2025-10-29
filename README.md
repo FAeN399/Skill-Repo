@@ -4,6 +4,19 @@
 
 Skill Forge is your workshop for crafting high-quality SKILL.md files and bundled resources that extend Claude's capabilities with specialized knowledge, workflows, and tool integrations.
 
+## 🎨 Image Growth Experiment
+
+This repository includes an impressive demonstration of exponential image growth through fractal generation! The `image_growth.py` script generates progressively larger and more complex Mandelbrot set fractals, showcasing mathematical beauty at scale.
+
+**Highlights:**
+- Exponential growth from 256×256px to 8192×8192px (67 megapixels!)
+- Progressive zoom revealing infinite fractal detail
+- Multiple artistic color palettes (fire, ocean, psychedelic, matrix)
+- NumPy-optimized performance
+- Real-world demonstration of computational complexity scaling
+
+See [IMAGE_GROWTH_README.md](IMAGE_GROWTH_README.md) for complete details, usage examples, and the mathematics behind it.
+
 ## 🎯 What are Skills?
 
 Skills are modular, self-contained packages that transform Claude from a general-purpose AI into a specialized agent equipped with domain-specific knowledge. Think of them as "onboarding guides" that provide:
